@@ -1,0 +1,6 @@
+E:\Coding\Github\Background-Changer-Bypass\Background-Changer-Bypass\bin\Release\Background-Changer-Bypass.exe.config
+E:\Coding\Github\Background-Changer-Bypass\Background-Changer-Bypass\bin\Release\Background-Changer-Bypass.exe
+E:\Coding\Github\Background-Changer-Bypass\Background-Changer-Bypass\bin\Release\Background-Changer-Bypass.pdb
+E:\Coding\Github\Background-Changer-Bypass\Background-Changer-Bypass\obj\Release\Background-Changer-Bypass.csproj.CoreCompileInputs.cache
+E:\Coding\Github\Background-Changer-Bypass\Background-Changer-Bypass\obj\Release\Background-Changer-Bypass.exe
+E:\Coding\Github\Background-Changer-Bypass\Background-Changer-Bypass\obj\Release\Background-Changer-Bypass.pdb
